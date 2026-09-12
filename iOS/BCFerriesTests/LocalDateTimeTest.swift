@@ -66,7 +66,9 @@ class LocalDateTimeTest: XCTestCase {
         let df = DateFormatter()
         df.timeStyle = .medium
         df.locale = Locale(identifier: "en_US_POSIX") // newer iOS puts a narrow no-break space before AM/PM
-        XCTAssertEqual("12:01:02 AM", lt.toString(df))
+        // iOS 17+ uses a narrow no-break space (U+202F) before AM/PM, whatever the locale
+        let formatted = lt.toString(df).replacingOccurrences(of: "\u{202F}", with: " ").replacingOccurrences(of: "\u{00A0}", with: " ")
+        XCTAssertEqual("12:01:02 AM", formatted)
     }
 
 }
