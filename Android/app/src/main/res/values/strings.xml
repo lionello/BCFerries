@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BC Ferry Times</string>
+    <string name="refresh">Refresh Data</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+    <string name="holiday">Holiday</string>
+    <string name="wrong_location">You appear to be at %s</string>
+    <string name="nextTime">in %d min</string>
+
+    <string name="Tsawwassen">Tsawwassen</string>
+    <string name="SwartzBay">Swartz Bay</string>
+    <string name="HorseshoeBay">Horseshoe Bay</string>
+    <string name="DepartureBay">Departure Bay</string>
+    <string name="DukePoint">Duke Point</string>
+    <string name="Langdale">Langdale</string>
+    <string name="BowenIsland">Bowen Island</string>
+    <string name="FulfordHarbour">Fulford Harbour</string>
+
+    <string name="Tsawwassen2">Tsawwassen · Vancouver</string>
+    <string name="SwartzBay2">Swartz Bay · Victoria</string>
+    <string name="HorseshoeBay2">Horseshoe Bay · West Vancouver</string>
+    <string name="DepartureBay2">Departure Bay · Nanaimo</string>
+    <string name="DukePoint2">Duke Point · Nanaimo</string>
+    <string name="Langdale2">Langdale · Sunshine Coast</string>
+    <string name="BowenIsland2">Bowen Island · Snug Cove</string>
+    <string name="FulfordHarbour2">Fulford Harbour · Salt Spring Island</string>
+
+    <string name="scheduled_time">Schedule</string>
+    <string name="walking_time">Walking</string>
+    <string name="ferry_time" translatable="false">%s - %s</string>
+    <string name="ferry_to">to %s</string>
+    <string name="title">BC Ferry Times (%s)</string>
+    <string name="ferry_fare" translatable="false">$%s</string>
+    <string name="my_location">My Location</string>
+    <string name="ferry_to_via">to %s via %s</string>
+    <string name="depart_from">Depart from</string>
+    <string name="x_min">~%d min</string>
+    <string name="rate_the_app">Rate the app…</string>
+    <string name="ferry_content">Ferry</string>
+    <string name="french" translatable="false">Français</string>
+    <string name="english" translatable="false">English</string>
+</resources>

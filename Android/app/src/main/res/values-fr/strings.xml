@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BC Ferry Times</string>
+    <string name="refresh">Actualiser</string>
+    <string name="monday">Lundi</string>
+    <string name="tuesday">Mardi</string>
+    <string name="wednesday">Mercredi</string>
+    <string name="thursday">Jeudi</string>
+    <string name="friday">Vendredi</string>
+    <string name="saturday">Samedi</string>
+    <string name="sunday">Dimanche</string>
+    <string name="holiday">Jour férié</string>
+    <string name="wrong_location">Vous semblez être à %s</string>
+    <string name="nextTime">dans %d min</string>
+
+    <string name="Tsawwassen">Tsawwassen</string>
+    <string name="SwartzBay">Swartz Bay</string>
+    <string name="HorseshoeBay">Horseshoe Bay</string>
+    <string name="DepartureBay">Departure Bay</string>
+    <string name="DukePoint">Duke Point</string>
+    <string name="Langdale">Langdale</string>
+    <string name="BowenIsland">Bowen Island</string>
+    <string name="FulfordHarbour">Fulford Harbour</string>
+
+    <string name="Tsawwassen2">Tsawwassen · Vancouver</string>
+    <string name="SwartzBay2">Swartz Bay · Victoria</string>
+    <string name="HorseshoeBay2">Horseshoe Bay · West Vancouver</string>
+    <string name="DepartureBay2">Departure Bay · Nanaimo</string>
+    <string name="DukePoint2">Duke Point · Nanaimo</string>
+    <string name="Langdale2">Langdale · Sunshine Coast</string>
+    <string name="BowenIsland2">Bowen Island · Snug Cove</string>
+    <string name="FulfordHarbour2">Fulford Harbour · Île Salt Spring</string>
+
+    <string name="scheduled_time">Horaire</string>
+    <string name="walking_time">Marche</string>
+    <string name="ferry_to">vers %s</string>
+    <string name="title">BC Ferry Times (%s)</string>
+    <string name="my_location">Ma position</string>
+    <string name="ferry_to_via">vers %s via %s</string>
+    <string name="depart_from">Départ de</string>
+    <string name="x_min">~%d min</string>
+    <string name="rate_the_app">Évaluer l’application…</string>
+    <string name="ferry_content">Traversier</string>
+</resources>

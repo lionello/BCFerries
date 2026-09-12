@@ -1,0 +1,32 @@
+package com.lunesu.bcferries
+
+import androidx.test.ext.junit.runners.AndroidJUnit4
+import kotlinx.coroutines.runBlocking
+import org.junit.After
+import org.junit.Assert.assertEquals
+import org.junit.Assert.assertNotEquals
+import org.junit.Test
+import org.junit.runner.RunWith
+
+@RunWith(AndroidJUnit4::class)
+class FerryRepositoryTest {
+    private val db = DbOpenHelper(null)
+
+    @After
+    fun tearDown() {
+        db.close()
+    }
+
+    @Test
+    fun testClean() {
+        val repo = FerryRepository(db)
+        assertEquals(0, repo.getFerries(FerryPier.SwartzBay, FerryDay.Monday).size)
+    }
+
+    @Test
+    fun testRefresh() = runBlocking {
+        val repo = FerryRepository(db)
+        repo.refresh()
+        assertNotEquals(0, repo.getFerries(FerryPier.SwartzBay, FerryDay.Monday).size)
+    }
+}

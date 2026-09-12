@@ -1,0 +1,36 @@
+/*
+  Localizable.strings (français)
+  BCFerries
+*/
+"in %lld mins" = "dans %lld min";
+"DEPART FROM" = "DÉPART DE";
+"~%lld mins" = "~%lld min";
+"to %@ via %@" = "vers %@ via %@";
+"to %@" = "vers %@";
+"BC Ferry Times" = "BC Ferry Times";
+"BC Ferry Times (%@)" = "BC Ferry Times (%@)";
+"Select departure pier" = "Choisir le terminal de départ";
+"Monday" = "Lundi";
+"Tuesday" = "Mardi";
+"Wednesday" = "Mercredi";
+"Thursday" = "Jeudi";
+"Friday" = "Vendredi";
+"Saturday" = "Samedi";
+"Sunday" = "Dimanche";
+"Holiday" = "Jour férié";
+"Tsawwassen" = "Tsawwassen";
+"SwartzBay" = "Swartz Bay";
+"HorseshoeBay" = "Horseshoe Bay";
+"DepartureBay" = "Departure Bay";
+"DukePoint" = "Duke Point";
+"Langdale" = "Langdale";
+"BowenIsland" = "Bowen Island";
+"FulfordHarbour" = "Fulford Harbour";
+"Tsawwassen · Vancouver" = "Tsawwassen · Vancouver";
+"Swartz Bay · Victoria" = "Swartz Bay · Victoria";
+"Horseshoe Bay · West Vancouver" = "Horseshoe Bay · West Vancouver";
+"Departure Bay · Nanaimo" = "Departure Bay · Nanaimo";
+"Duke Point · Nanaimo" = "Duke Point · Nanaimo";
+"Langdale · Sunshine Coast" = "Langdale · Sunshine Coast";
+"Bowen Island · Snug Cove" = "Bowen Island · Snug Cove";
+"Fulford Harbour · Salt Spring Island" = "Fulford Harbour · Île Salt Spring";

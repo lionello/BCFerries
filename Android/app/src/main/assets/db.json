@@ -1,0 +1,980 @@
+{
+    "ferries": [
+        {
+            "days": 255,
+            "dur": 20,
+            "fare": "12.35",
+            "from": "BowenIsland",
+            "time": "05:15:00",
+            "to": "HorseshoeBay"
+        },
+        {
+            "days": 255,
+            "dur": 20,
+            "fare": "12.35",
+            "from": "BowenIsland",
+            "time": "06:15:00",
+            "to": "HorseshoeBay"
+        },
+        {
+            "days": 255,
+            "dur": 20,
+            "fare": "12.35",
+            "from": "BowenIsland",
+            "time": "07:30:00",
+            "to": "HorseshoeBay"
+        },
+        {
+            "days": 255,
+            "dur": 20,
+            "fare": "12.35",
+            "from": "BowenIsland",
+            "time": "08:45:00",
+            "to": "HorseshoeBay"
+        },
+        {
+            "days": 255,
+            "dur": 20,
+            "fare": "12.35",
+            "from": "BowenIsland",
+            "time": "10:00:00",
+            "to": "HorseshoeBay"
+        },
+        {
+            "days": 255,
+            "dur": 20,
+            "fare": "12.35",
+            "from": "BowenIsland",
+            "time": "11:15:00",
+            "to": "HorseshoeBay"
+        },
+        {
+            "days": 255,
+            "dur": 20,
+            "fare": "12.35",
+            "from": "BowenIsland",
+            "time": "12:35:00",
+            "to": "HorseshoeBay"
+        },
+        {
+            "days": 255,
+            "dur": 20,
+            "fare": "12.35",
+            "from": "BowenIsland",
+            "time": "13:55:00",
+            "to": "HorseshoeBay"
+        },
+        {
+            "days": 255,
+            "dur": 20,
+            "fare": "12.35",
+            "from": "BowenIsland",
+            "time": "15:15:00",
+            "to": "HorseshoeBay"
+        },
+        {
+            "days": 255,
+            "dur": 20,
+            "fare": "12.35",
+            "from": "BowenIsland",
+            "time": "16:40:00",
+            "to": "HorseshoeBay"
+        },
+        {
+            "days": 255,
+            "dur": 20,
+            "fare": "12.35",
+            "from": "BowenIsland",
+            "time": "18:00:00",
+            "to": "HorseshoeBay"
+        },
+        {
+            "days": 255,
+            "dur": 20,
+            "fare": "12.35",
+            "from": "BowenIsland",
+            "time": "19:15:00",
+            "to": "HorseshoeBay"
+        },
+        {
+            "days": 255,
+            "dur": 20,
+            "fare": "12.35",
+            "from": "BowenIsland",
+            "time": "21:30:00",
+            "to": "HorseshoeBay"
+        },
+        {
+            "days": 255,
+            "dur": 20,
+            "fare": "12.35",
+            "from": "BowenIsland",
+            "time": "22:30:00",
+            "to": "HorseshoeBay"
+        },
+        {
+            "days": 255,
+            "dur": 20,
+            "fare": "12.35",
+            "from": "BowenIsland",
+            "time": "23:30:00",
+            "to": "HorseshoeBay"
+        },
+        {
+            "days": 255,
+            "dur": 102,
+            "fare": "19.10",
+            "from": "DepartureBay",
+            "time": "06:15:00",
+            "to": "HorseshoeBay"
+        },
+        {
+            "days": 255,
+            "dur": 102,
+            "fare": "19.10",
+            "from": "DepartureBay",
+            "time": "08:40:00",
+            "to": "HorseshoeBay"
+        },
+        {
+            "days": 255,
+            "dur": 102,
+            "fare": "19.10",
+            "from": "DepartureBay",
+            "time": "10:55:00",
+            "to": "HorseshoeBay"
+        },
+        {
+            "days": 255,
+            "dur": 102,
+            "fare": "19.10",
+            "from": "DepartureBay",
+            "time": "13:20:00",
+            "to": "HorseshoeBay"
+        },
+        {
+            "days": 255,
+            "dur": 102,
+            "fare": "19.10",
+            "from": "DepartureBay",
+            "time": "16:00:00",
+            "to": "HorseshoeBay"
+        },
+        {
+            "days": 255,
+            "dur": 102,
+            "fare": "19.10",
+            "from": "DepartureBay",
+            "time": "18:20:00",
+            "to": "HorseshoeBay"
+        },
+        {
+            "days": 255,
+            "dur": 102,
+            "fare": "19.10",
+            "from": "DepartureBay",
+            "time": "20:30:00",
+            "to": "HorseshoeBay"
+        },
+        {
+            "days": 255,
+            "dur": 120,
+            "fare": "19.10",
+            "from": "DukePoint",
+            "time": "05:15:00",
+            "to": "Tsawwassen"
+        },
+        {
+            "days": 255,
+            "dur": 120,
+            "fare": "19.10",
+            "from": "DukePoint",
+            "time": "07:45:00",
+            "to": "Tsawwassen"
+        },
+        {
+            "days": 255,
+            "dur": 120,
+            "fare": "19.10",
+            "from": "DukePoint",
+            "time": "10:15:00",
+            "to": "Tsawwassen"
+        },
+        {
+            "days": 255,
+            "dur": 120,
+            "fare": "19.10",
+            "from": "DukePoint",
+            "time": "12:45:00",
+            "to": "Tsawwassen"
+        },
+        {
+            "days": 255,
+            "dur": 120,
+            "fare": "19.10",
+            "from": "DukePoint",
+            "time": "15:15:00",
+            "to": "Tsawwassen"
+        },
+        {
+            "days": 255,
+            "dur": 120,
+            "fare": "19.10",
+            "from": "DukePoint",
+            "time": "17:45:00",
+            "to": "Tsawwassen"
+        },
+        {
+            "days": 255,
+            "dur": 35,
+            "fare": "12.30",
+            "from": "FulfordHarbour",
+            "time": "06:00:00",
+            "to": "SwartzBay"
+        },
+        {
+            "days": 255,
+            "dur": 35,
+            "fare": "12.30",
+            "from": "FulfordHarbour",
+            "time": "07:40:00",
+            "to": "SwartzBay"
+        },
+        {
+            "days": 255,
+            "dur": 35,
+            "fare": "12.30",
+            "from": "FulfordHarbour",
+            "time": "09:25:00",
+            "to": "SwartzBay"
+        },
+        {
+            "days": 255,
+            "dur": 35,
+            "fare": "12.30",
+            "from": "FulfordHarbour",
+            "time": "11:10:00",
+            "to": "SwartzBay"
+        },
+        {
+            "days": 255,
+            "dur": 35,
+            "fare": "12.30",
+            "from": "FulfordHarbour",
+            "time": "12:50:00",
+            "to": "SwartzBay"
+        },
+        {
+            "days": 255,
+            "dur": 35,
+            "fare": "12.30",
+            "from": "FulfordHarbour",
+            "time": "14:35:00",
+            "to": "SwartzBay"
+        },
+        {
+            "days": 255,
+            "dur": 35,
+            "fare": "12.30",
+            "from": "FulfordHarbour",
+            "time": "16:20:00",
+            "to": "SwartzBay"
+        },
+        {
+            "days": 255,
+            "dur": 35,
+            "fare": "12.30",
+            "from": "FulfordHarbour",
+            "time": "18:00:00",
+            "to": "SwartzBay"
+        },
+        {
+            "days": 255,
+            "dur": 35,
+            "fare": "12.30",
+            "from": "FulfordHarbour",
+            "time": "19:40:00",
+            "to": "SwartzBay"
+        },
+        {
+            "days": 255,
+            "dur": 35,
+            "fare": "12.30",
+            "from": "FulfordHarbour",
+            "time": "21:15:00",
+            "to": "SwartzBay"
+        },
+        {
+            "days": 255,
+            "dur": 20,
+            "fare": "12.35",
+            "from": "HorseshoeBay",
+            "time": "05:45:00",
+            "to": "BowenIsland"
+        },
+        {
+            "days": 255,
+            "dur": 20,
+            "fare": "12.35",
+            "from": "HorseshoeBay",
+            "time": "06:50:00",
+            "to": "BowenIsland"
+        },
+        {
+            "days": 255,
+            "dur": 20,
+            "fare": "12.35",
+            "from": "HorseshoeBay",
+            "time": "08:05:00",
+            "to": "BowenIsland"
+        },
+        {
+            "days": 255,
+            "dur": 20,
+            "fare": "12.35",
+            "from": "HorseshoeBay",
+            "time": "09:20:00",
+            "to": "BowenIsland"
+        },
+        {
+            "days": 255,
+            "dur": 20,
+            "fare": "12.35",
+            "from": "HorseshoeBay",
+            "time": "10:35:00",
+            "to": "BowenIsland"
+        },
+        {
+            "days": 255,
+            "dur": 20,
+            "fare": "12.35",
+            "from": "HorseshoeBay",
+            "time": "11:55:00",
+            "to": "BowenIsland"
+        },
+        {
+            "days": 255,
+            "dur": 20,
+            "fare": "12.35",
+            "from": "HorseshoeBay",
+            "time": "13:10:00",
+            "to": "BowenIsland"
+        },
+        {
+            "days": 255,
+            "dur": 20,
+            "fare": "12.35",
+            "from": "HorseshoeBay",
+            "time": "14:35:00",
+            "to": "BowenIsland"
+        },
+        {
+            "days": 255,
+            "dur": 20,
+            "fare": "12.35",
+            "from": "HorseshoeBay",
+            "time": "15:55:00",
+            "to": "BowenIsland"
+        },
+        {
+            "days": 255,
+            "dur": 20,
+            "fare": "12.35",
+            "from": "HorseshoeBay",
+            "time": "17:20:00",
+            "to": "BowenIsland"
+        },
+        {
+            "days": 255,
+            "dur": 20,
+            "fare": "12.35",
+            "from": "HorseshoeBay",
+            "time": "18:35:00",
+            "to": "BowenIsland"
+        },
+        {
+            "days": 255,
+            "dur": 20,
+            "fare": "12.35",
+            "from": "HorseshoeBay",
+            "time": "19:50:00",
+            "to": "BowenIsland"
+        },
+        {
+            "days": 255,
+            "dur": 20,
+            "fare": "12.35",
+            "from": "HorseshoeBay",
+            "time": "22:00:00",
+            "to": "BowenIsland"
+        },
+        {
+            "days": 255,
+            "dur": 20,
+            "fare": "12.35",
+            "from": "HorseshoeBay",
+            "time": "23:00:00",
+            "to": "BowenIsland"
+        },
+        {
+            "days": 255,
+            "dur": 102,
+            "fare": "19.10",
+            "from": "HorseshoeBay",
+            "time": "06:15:00",
+            "to": "DepartureBay"
+        },
+        {
+            "days": 255,
+            "dur": 102,
+            "fare": "19.10",
+            "from": "HorseshoeBay",
+            "time": "08:35:00",
+            "to": "DepartureBay"
+        },
+        {
+            "days": 255,
+            "dur": 102,
+            "fare": "19.10",
+            "from": "HorseshoeBay",
+            "time": "11:05:00",
+            "to": "DepartureBay"
+        },
+        {
+            "days": 255,
+            "dur": 102,
+            "fare": "19.10",
+            "from": "HorseshoeBay",
+            "time": "13:25:00",
+            "to": "DepartureBay"
+        },
+        {
+            "days": 255,
+            "dur": 102,
+            "fare": "19.10",
+            "from": "HorseshoeBay",
+            "time": "16:00:00",
+            "to": "DepartureBay"
+        },
+        {
+            "days": 255,
+            "dur": 102,
+            "fare": "19.10",
+            "from": "HorseshoeBay",
+            "time": "18:20:00",
+            "to": "DepartureBay"
+        },
+        {
+            "days": 255,
+            "dur": 102,
+            "fare": "19.10",
+            "from": "HorseshoeBay",
+            "time": "22:40:00",
+            "to": "DepartureBay"
+        },
+        {
+            "days": 255,
+            "dur": 40,
+            "fare": "15.60",
+            "from": "HorseshoeBay",
+            "time": "07:30:00",
+            "to": "Langdale"
+        },
+        {
+            "days": 255,
+            "dur": 40,
+            "fare": "15.60",
+            "from": "HorseshoeBay",
+            "time": "09:50:00",
+            "to": "Langdale"
+        },
+        {
+            "days": 255,
+            "dur": 40,
+            "fare": "15.60",
+            "from": "HorseshoeBay",
+            "time": "12:10:00",
+            "to": "Langdale"
+        },
+        {
+            "days": 255,
+            "dur": 40,
+            "fare": "15.60",
+            "from": "HorseshoeBay",
+            "time": "14:25:00",
+            "to": "Langdale"
+        },
+        {
+            "days": 255,
+            "dur": 40,
+            "fare": "15.60",
+            "from": "HorseshoeBay",
+            "time": "16:45:00",
+            "to": "Langdale"
+        },
+        {
+            "days": 255,
+            "dur": 40,
+            "fare": "15.60",
+            "from": "HorseshoeBay",
+            "time": "19:05:00",
+            "to": "Langdale"
+        },
+        {
+            "days": 255,
+            "dur": 40,
+            "fare": "15.60",
+            "from": "HorseshoeBay",
+            "time": "21:25:00",
+            "to": "Langdale"
+        },
+        {
+            "days": 255,
+            "dur": 40,
+            "fare": "15.60",
+            "from": "HorseshoeBay",
+            "time": "23:30:00",
+            "to": "Langdale"
+        },
+        {
+            "days": 255,
+            "dur": 40,
+            "fare": "15.60",
+            "from": "Langdale",
+            "time": "06:20:00",
+            "to": "HorseshoeBay"
+        },
+        {
+            "days": 255,
+            "dur": 40,
+            "fare": "15.60",
+            "from": "Langdale",
+            "time": "08:40:00",
+            "to": "HorseshoeBay"
+        },
+        {
+            "days": 255,
+            "dur": 40,
+            "fare": "15.60",
+            "from": "Langdale",
+            "time": "11:00:00",
+            "to": "HorseshoeBay"
+        },
+        {
+            "days": 255,
+            "dur": 40,
+            "fare": "15.60",
+            "from": "Langdale",
+            "time": "13:15:00",
+            "to": "HorseshoeBay"
+        },
+        {
+            "days": 255,
+            "dur": 40,
+            "fare": "15.60",
+            "from": "Langdale",
+            "time": "15:35:00",
+            "to": "HorseshoeBay"
+        },
+        {
+            "days": 255,
+            "dur": 40,
+            "fare": "15.60",
+            "from": "Langdale",
+            "time": "17:55:00",
+            "to": "HorseshoeBay"
+        },
+        {
+            "days": 255,
+            "dur": 40,
+            "fare": "15.60",
+            "from": "Langdale",
+            "time": "20:15:00",
+            "to": "HorseshoeBay"
+        },
+        {
+            "days": 255,
+            "dur": 40,
+            "fare": "15.60",
+            "from": "Langdale",
+            "time": "22:30:00",
+            "to": "HorseshoeBay"
+        },
+        {
+            "days": 255,
+            "dur": 35,
+            "fare": "12.30",
+            "from": "SwartzBay",
+            "time": "06:50:00",
+            "to": "FulfordHarbour"
+        },
+        {
+            "days": 255,
+            "dur": 35,
+            "fare": "12.30",
+            "from": "SwartzBay",
+            "time": "08:35:00",
+            "to": "FulfordHarbour"
+        },
+        {
+            "days": 255,
+            "dur": 35,
+            "fare": "12.30",
+            "from": "SwartzBay",
+            "time": "10:20:00",
+            "to": "FulfordHarbour"
+        },
+        {
+            "days": 255,
+            "dur": 35,
+            "fare": "12.30",
+            "from": "SwartzBay",
+            "time": "12:00:00",
+            "to": "FulfordHarbour"
+        },
+        {
+            "days": 255,
+            "dur": 35,
+            "fare": "12.30",
+            "from": "SwartzBay",
+            "time": "13:45:00",
+            "to": "FulfordHarbour"
+        },
+        {
+            "days": 255,
+            "dur": 35,
+            "fare": "12.30",
+            "from": "SwartzBay",
+            "time": "15:30:00",
+            "to": "FulfordHarbour"
+        },
+        {
+            "days": 255,
+            "dur": 35,
+            "fare": "12.30",
+            "from": "SwartzBay",
+            "time": "17:10:00",
+            "to": "FulfordHarbour"
+        },
+        {
+            "days": 255,
+            "dur": 35,
+            "fare": "12.30",
+            "from": "SwartzBay",
+            "time": "18:55:00",
+            "to": "FulfordHarbour"
+        },
+        {
+            "days": 255,
+            "dur": 35,
+            "fare": "12.30",
+            "from": "SwartzBay",
+            "time": "20:30:00",
+            "to": "FulfordHarbour"
+        },
+        {
+            "days": 255,
+            "dur": 35,
+            "fare": "12.30",
+            "from": "SwartzBay",
+            "time": "22:00:00",
+            "to": "FulfordHarbour"
+        },
+        {
+            "days": 255,
+            "dur": 95,
+            "fare": "19.10",
+            "from": "SwartzBay",
+            "time": "06:00:00",
+            "to": "Tsawwassen"
+        },
+        {
+            "days": 255,
+            "dur": 95,
+            "fare": "19.10",
+            "from": "SwartzBay",
+            "time": "07:00:00",
+            "to": "Tsawwassen"
+        },
+        {
+            "days": 255,
+            "dur": 95,
+            "fare": "19.10",
+            "from": "SwartzBay",
+            "time": "08:00:00",
+            "to": "Tsawwassen"
+        },
+        {
+            "days": 255,
+            "dur": 95,
+            "fare": "19.10",
+            "from": "SwartzBay",
+            "time": "09:00:00",
+            "to": "Tsawwassen"
+        },
+        {
+            "days": 255,
+            "dur": 95,
+            "fare": "19.10",
+            "from": "SwartzBay",
+            "time": "10:00:00",
+            "to": "Tsawwassen"
+        },
+        {
+            "days": 255,
+            "dur": 95,
+            "fare": "19.10",
+            "from": "SwartzBay",
+            "time": "11:00:00",
+            "to": "Tsawwassen"
+        },
+        {
+            "days": 255,
+            "dur": 95,
+            "fare": "19.10",
+            "from": "SwartzBay",
+            "time": "12:00:00",
+            "to": "Tsawwassen"
+        },
+        {
+            "days": 255,
+            "dur": 95,
+            "fare": "19.10",
+            "from": "SwartzBay",
+            "time": "13:00:00",
+            "to": "Tsawwassen"
+        },
+        {
+            "days": 255,
+            "dur": 95,
+            "fare": "19.10",
+            "from": "SwartzBay",
+            "time": "14:00:00",
+            "to": "Tsawwassen"
+        },
+        {
+            "days": 255,
+            "dur": 95,
+            "fare": "19.10",
+            "from": "SwartzBay",
+            "time": "15:00:00",
+            "to": "Tsawwassen"
+        },
+        {
+            "days": 255,
+            "dur": 95,
+            "fare": "19.10",
+            "from": "SwartzBay",
+            "time": "17:00:00",
+            "to": "Tsawwassen"
+        },
+        {
+            "days": 255,
+            "dur": 95,
+            "fare": "19.10",
+            "from": "SwartzBay",
+            "time": "18:00:00",
+            "to": "Tsawwassen"
+        },
+        {
+            "days": 255,
+            "dur": 95,
+            "fare": "19.10",
+            "from": "SwartzBay",
+            "time": "19:00:00",
+            "to": "Tsawwassen"
+        },
+        {
+            "days": 255,
+            "dur": 95,
+            "fare": "19.10",
+            "from": "SwartzBay",
+            "time": "21:00:00",
+            "to": "Tsawwassen"
+        },
+        {
+            "days": 255,
+            "dur": 120,
+            "fare": "19.10",
+            "from": "Tsawwassen",
+            "time": "05:15:00",
+            "to": "DukePoint"
+        },
+        {
+            "days": 255,
+            "dur": 120,
+            "fare": "19.10",
+            "from": "Tsawwassen",
+            "time": "07:45:00",
+            "to": "DukePoint"
+        },
+        {
+            "days": 255,
+            "dur": 120,
+            "fare": "19.10",
+            "from": "Tsawwassen",
+            "time": "10:15:00",
+            "to": "DukePoint"
+        },
+        {
+            "days": 255,
+            "dur": 120,
+            "fare": "19.10",
+            "from": "Tsawwassen",
+            "time": "12:45:00",
+            "to": "DukePoint"
+        },
+        {
+            "days": 255,
+            "dur": 120,
+            "fare": "19.10",
+            "from": "Tsawwassen",
+            "time": "15:15:00",
+            "to": "DukePoint"
+        },
+        {
+            "days": 255,
+            "dur": 120,
+            "fare": "19.10",
+            "from": "Tsawwassen",
+            "time": "17:45:00",
+            "to": "DukePoint"
+        },
+        {
+            "days": 255,
+            "dur": 95,
+            "fare": "19.10",
+            "from": "Tsawwassen",
+            "time": "06:00:00",
+            "to": "SwartzBay"
+        },
+        {
+            "days": 255,
+            "dur": 95,
+            "fare": "19.10",
+            "from": "Tsawwassen",
+            "time": "07:00:00",
+            "to": "SwartzBay"
+        },
+        {
+            "days": 255,
+            "dur": 95,
+            "fare": "19.10",
+            "from": "Tsawwassen",
+            "time": "08:00:00",
+            "to": "SwartzBay"
+        },
+        {
+            "days": 255,
+            "dur": 95,
+            "fare": "19.10",
+            "from": "Tsawwassen",
+            "time": "09:00:00",
+            "to": "SwartzBay"
+        },
+        {
+            "days": 255,
+            "dur": 95,
+            "fare": "19.10",
+            "from": "Tsawwassen",
+            "time": "10:00:00",
+            "to": "SwartzBay"
+        },
+        {
+            "days": 255,
+            "dur": 95,
+            "fare": "19.10",
+            "from": "Tsawwassen",
+            "time": "11:00:00",
+            "to": "SwartzBay"
+        },
+        {
+            "days": 255,
+            "dur": 95,
+            "fare": "19.10",
+            "from": "Tsawwassen",
+            "time": "12:00:00",
+            "to": "SwartzBay"
+        },
+        {
+            "days": 255,
+            "dur": 95,
+            "fare": "19.10",
+            "from": "Tsawwassen",
+            "time": "13:00:00",
+            "to": "SwartzBay"
+        },
+        {
+            "days": 255,
+            "dur": 95,
+            "fare": "19.10",
+            "from": "Tsawwassen",
+            "time": "15:00:00",
+            "to": "SwartzBay"
+        },
+        {
+            "days": 255,
+            "dur": 95,
+            "fare": "19.10",
+            "from": "Tsawwassen",
+            "time": "16:00:00",
+            "to": "SwartzBay"
+        },
+        {
+            "days": 255,
+            "dur": 95,
+            "fare": "19.10",
+            "from": "Tsawwassen",
+            "time": "17:00:00",
+            "to": "SwartzBay"
+        },
+        {
+            "days": 255,
+            "dur": 95,
+            "fare": "19.10",
+            "from": "Tsawwassen",
+            "time": "19:00:00",
+            "to": "SwartzBay"
+        },
+        {
+            "days": 255,
+            "dur": 95,
+            "fare": "19.10",
+            "from": "Tsawwassen",
+            "time": "20:00:00",
+            "to": "SwartzBay"
+        },
+        {
+            "days": 255,
+            "dur": 95,
+            "fare": "19.10",
+            "from": "Tsawwassen",
+            "time": "21:00:00",
+            "to": "SwartzBay"
+        }
+    ],
+    "holidays": [
+        "2026-01-01",
+        "2026-02-16",
+        "2026-04-03",
+        "2026-05-18",
+        "2026-07-01",
+        "2026-08-03",
+        "2026-09-07",
+        "2026-09-30",
+        "2026-10-12",
+        "2026-11-11",
+        "2026-12-25",
+        "2027-01-01",
+        "2027-02-15",
+        "2027-03-26",
+        "2027-05-24",
+        "2027-07-01",
+        "2027-08-02",
+        "2027-09-06",
+        "2027-09-30",
+        "2027-10-11",
+        "2027-11-11",
+        "2027-12-27"
+    ]
+}

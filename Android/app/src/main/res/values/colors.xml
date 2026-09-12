@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1B4F8A</color>
+    <color name="colorPrimaryDark">#0F335C</color>
+    <color name="colorAccent">#11223344</color>
+
+    <!-- Destination colours, by region -->
+    <color name="colorVancouverIsland">#0B6BB3</color>
+    <color name="colorSunshineCoast">#E8772E</color>
+    <color name="colorBowenIsland">#2E8B57</color>
+    <color name="colorGulfIslands">#7B4FA6</color>
+
+</resources>
