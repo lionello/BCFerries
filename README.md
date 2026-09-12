@@ -57,7 +57,7 @@ The snapshot is whatever sailed on the day it was generated; it is only a fallba
 
 * **Android**: `cd Android && ./gradlew testDebug` (JDK 11). Instrumented tests parse saved copies
   of both feeds from `app/src/androidTest/assets`.
-* **iOS**: `cd iOS && xcodebuild test -scheme BCFerries -destination 'platform=iOS Simulator,name=iPhone 8'`.
+* **iOS**: `cd iOS && xcodebuild test -scheme BCFerries -destination 'platform=iOS Simulator,name=iPhone 17'`.
   No external dependencies (the Carthage frameworks of the original were unused and have been dropped).
 
 ## Not done yet
