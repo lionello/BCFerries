@@ -65,6 +65,7 @@ class LocalDateTimeTest: XCTestCase {
         let lt = LocalTime(secs: 62.0)
         let df = DateFormatter()
         df.timeStyle = .medium
+        df.locale = Locale(identifier: "en_US_POSIX") // newer iOS puts a narrow no-break space before AM/PM
         XCTAssertEqual("12:01:02 AM", lt.toString(df))
     }
 
